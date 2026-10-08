@@ -1,4 +1,4 @@
-# Dishonored 1 ESP Overlay
+# Dishonored 1 Overlay
 
 External cheat DLL for Dishonored 1 (Unreal Engine 3, D3D9, x86) with D3D9 hook overlay.
 
