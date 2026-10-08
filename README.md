@@ -42,6 +42,12 @@ External cheat DLL for Dishonored 1 (Unreal Engine 3, D3D9, x86) with D3D9 hook 
 - Kill All, Knockout All
 - NPC Spawner
 
+<img width="1546" height="706" alt="image" src="https://github.com/user-attachments/assets/a07eacc7-0c8b-4786-9c56-22c13a782dac" />
+<img width="578" height="667" alt="image" src="https://github.com/user-attachments/assets/4359e9b4-5444-4a07-a994-1c678004adf5" />
+<img width="564" height="652" alt="image" src="https://github.com/user-attachments/assets/dc5f0a66-e0e2-4059-bb55-4d5f6fac346b" />
+<img width="582" height="649" alt="image" src="https://github.com/user-attachments/assets/b7e839d2-7818-4ffc-897e-f8ef615c38bf" />
+<img width="566" height="637" alt="image" src="https://github.com/user-attachments/assets/702ddc72-41a5-4cae-931d-8087c4bba7da" />
+
 ## Building
 
 Requires MinGW i686 (32-bit) cross-compiler.
