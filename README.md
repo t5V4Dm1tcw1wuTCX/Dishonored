@@ -70,7 +70,7 @@ i686-w64-mingw32-g++ -shared -o DishonoredESP.dll -O2 -static \
 
 1. Start Dishonored 1
 2. Inject `DishonoredESP.dll` into the game process
-3. Press **INSERT** to toggle the menu
+3. Press **INSERT/HOME** to toggle the menu
 
 ## Dependencies
 
